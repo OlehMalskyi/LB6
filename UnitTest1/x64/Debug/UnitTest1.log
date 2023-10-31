@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+E:\Project\АП\LB6\LB6.1 REK\LB6.1 REK\LB6.1_REK.cpp(34): warning C4715: 'Sum': not all control paths return a value
+E:\Project\АП\LB6\LB6.1 REK\LB6.1 REK\LB6.1_REK.cpp(46): warning C4715: 'Count': not all control paths return a value
+  UnitTest1.vcxproj -> E:\Project\АП\LB6\LB6.1 REK\x64\Debug\UnitTest1.dll
