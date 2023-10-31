@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include "../LB6.1/LB6.1.cpp"
+#include "../LB6.1/LB6.1_it.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 

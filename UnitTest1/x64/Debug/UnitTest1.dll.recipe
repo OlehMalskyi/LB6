@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>E:\Project\АП\LB6\LB6.1\x64\Debug\LB6.1 it.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>E:\Project\АП\LB6\LB6.1\x64\Debug\UnitTest1.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

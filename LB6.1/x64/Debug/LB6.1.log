@@ -1,2 +1,3 @@
-﻿  LB6.1.cpp
-  LB6.1.vcxproj -> E:\Project\АП\LB6\LB6.1\x64\Debug\LB6.1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LB6.1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LB6.1_it.cpp
+  LB6.1.vcxproj -> E:\Project\АП\LB6\LB6.1\x64\Debug\LB6.1 it.exe
