@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+E:\Project\АП\LB6\LB6.2_REK\LB6.2_REK\LB6.2_REK.cpp(51): warning C4715: 'findMaxNum': not all control paths return a value
+E:\Project\АП\LB6\LB6.2_REK\LB6.2_REK\LB6.2_REK.cpp(37): warning C4715: 'findMinNum': not all control paths return a value
+  UnitTest1.vcxproj -> E:\Project\АП\LB6\LB6.2_REK\x64\Debug\UnitTest1.dll
