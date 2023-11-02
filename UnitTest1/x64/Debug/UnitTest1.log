@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+E:\Project\АП\LB6\LB6.3_REK\LB6.3_REK\LB6.3_REK.cpp(36): warning C4715: 'count': not all control paths return a value
+E:\Project\АП\LB6\LB6.3_REK\LB6.3_REK\LB6.3_REK.cpp(50): warning C4715: 'secondCount<int>': not all control paths return a value
+  UnitTest1.vcxproj -> E:\Project\АП\LB6\LB6.3_REK\x64\Debug\UnitTest1.dll
