@@ -1,0 +1,4 @@
+﻿  LB6.4_IT.cpp
+E:\Project\АП\LB6\LB6.4_IT\LB6.4_IT\LB6.4_IT.cpp(11,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Project\АП\LB6\LB6.4_IT\LB6.4_IT\LB6.4_IT.cpp(92,98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LB6.4_IT.vcxproj -> E:\Project\АП\LB6\LB6.4_IT\x64\Debug\LB6.4_IT.exe
