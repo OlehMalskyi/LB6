@@ -1,0 +1,7 @@
+﻿  LB6.4_REK.cpp
+E:\Project\АП\LB6\LB6.4_REK\LB6.4_REK\LB6.4_REK.cpp(93,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\АП\LB6\LB6.4_REK\LB6.4_REK\LB6.4_REK.cpp(93,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\АП\LB6\LB6.4_REK\LB6.4_REK\LB6.4_REK.cpp(97,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Project\АП\LB6\LB6.4_REK\LB6.4_REK\LB6.4_REK.cpp(36): warning C4715: 'count': not all control paths return a value
+E:\Project\АП\LB6\LB6.4_REK\LB6.4_REK\LB6.4_REK.cpp(56): warning C4715: 'mult': not all control paths return a value
+  LB6.4_REK.vcxproj -> E:\Project\АП\LB6\LB6.4_REK\x64\Debug\LB6.4_REK.exe
